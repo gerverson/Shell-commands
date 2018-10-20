@@ -1,6 +1,5 @@
-# git-commands
+# Comandos de Terminal
 
-Iniciar Git.
->> git init
+>> Tutorial Git
 
->> git checkout -f
+>> <a href="git.sh"> git</a>
