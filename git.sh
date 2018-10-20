@@ -14,3 +14,6 @@ git remote add origin https://github.com/gerverson/docker.git
 
 #Subindo para o github
 git push -u origin master
+
+#Desfazer alterações nos arquivos modificados
+git checkout -f
